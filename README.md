@@ -10,22 +10,22 @@ Major Requirements
 
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
-|**Software Engineering Core**|
+|**Software Engineering Core**|| 15 credits |
 | CIS 1200	|Intro to Database Systems |	4 |
 | CIS 2131	| Python Programming	| 4 |
 | ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript)|	4 |
 | CIS 1512	| Principles of Software Engineering |	3 |
-||| 15 credits |
-|**Second Language Choice**|Select one of the following three languages |
+||
+|**Second Language Choice**|Select one of the following three languages | 4 credits |
 | ^CIS 2252	| C++ Programming ( remove OOP )| 4 |
 | ^CIS 2151	|Java Programming ( remove prereq ) | 4 |
 | CIS 2757	| C# Programming	| 4 |
-|||4 credits|
-|**Advanced Courses**|
+||
+|**Advanced Courses**| | 12 credits |
 | CIS 2353	| Data Structures |	4 |
 | ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
 | CIS 2540	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
-||| 12 credits|
+||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | | 11 credits |
 | +CIS 2850	| Introduction to Game Art and Animation (Blender) |	4 |
