@@ -18,7 +18,8 @@ Major Requirements
 | CIS 1512	| Principles of Software Engineering |	3 |
 | CIS 2131	| Python Programming	| 4 |
 ||
-|**Second Language Choice**|Select one of the following three languages | 4 credits |
+|**Second Language Choice**|Select one of the following four languages | 4 credits |
+| CIS 2141 |	R Programming for Data Science |	4 |
 | ^CIS 2151	|Java Programming ( OOP from title and remove prereq ) | 4 |
 | ^CIS 2252	| C++ Programming ( remove OOP from title )| 4 |
 | CIS 2757	| C# Programming	| 4 |
@@ -34,10 +35,10 @@ Major Requirements
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
-| Data Science and AI Focus | | 12 credits |
-| CIS 2141 |	R Programming for Data Science |	4 |
+| Data Science and AI Focus | | 11 credits |
 | CIS 2241|	Discrete Structures	| 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
+| CIS 2637	| Big Data and NoSQL Systems | 3 |
 ||
 | Full Stack Devleopment Focus | | 12 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
