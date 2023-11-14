@@ -34,7 +34,7 @@ Major Requirements
 ||
 | Data Science and AI Focus | | 12 credits |
 | CIS 2241|	Discrete Structures	| 4 |
-| CIS 2541	|Introduction to Machine Learning | 4 |
+| CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2141 |	R Programming for Data Science |	4 |
 ||
 | Full Stack Devleopment Focus | | 12 credits |
