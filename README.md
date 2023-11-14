@@ -57,5 +57,5 @@ Major Requirements
 | or PHI 2710 |	Introduction to Formal Logic |	3 |
 ||
 | | Social Science from Gen Ed Distribution | 3 |
-| | Total Credit Hours for Program-Related Courses	| 61-64 |
+| | Total Credit Hours for Program-Related Courses	| 60-63 |
 
