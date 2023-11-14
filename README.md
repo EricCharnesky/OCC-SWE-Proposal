@@ -37,7 +37,7 @@ Major Requirements
 ||
 | Full Stack Devleopment Focus | | 12 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
-| +CIS 2474	| Full Stack Development and Automation |	4 |
+| +CIS 2474	| DevOps Engineering |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
 ||
 |**Capstone Course**|
