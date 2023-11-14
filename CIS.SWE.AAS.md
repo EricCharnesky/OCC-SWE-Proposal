@@ -35,7 +35,7 @@ Major Requirements
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
-| Data Science and AI Focus | | 11 credits |
+| Data Science and AI Focus | Take CIS 2141 R Programming as 2nd Language | 11 credits |
 | CIS 2241|	Discrete Structures	| 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2637	| Big Data and NoSQL Systems | 3 |
