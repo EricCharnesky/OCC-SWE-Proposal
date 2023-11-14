@@ -1,6 +1,7 @@
 # OCC-SWE-Proposal
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-aas/)
+[Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
 Software Engineering AAS (CIS.SWE.AAS)
 
