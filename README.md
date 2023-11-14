@@ -14,19 +14,19 @@ Major Requirements
 |-------------|-------------|---------:|
 |**Software Engineering Core**|| 15 credits |
 | CIS 1200	|Intro to Database Systems |	4 |
-| CIS 2131	| Python Programming	| 4 |
 | ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript)|	4 |
 | CIS 1512	| Principles of Software Engineering |	3 |
+| CIS 2131	| Python Programming	| 4 |
 ||
 |**Second Language Choice**|Select one of the following three languages | 4 credits |
-| ^CIS 2252	| C++ Programming ( remove OOP )| 4 |
-| ^CIS 2151	|Java Programming ( remove prereq ) | 4 |
+| ^CIS 2151	|Java Programming ( OOP from title and remove prereq ) | 4 |
+| ^CIS 2252	| C++ Programming ( remove OOP from title )| 4 |
 | CIS 2757	| C# Programming	| 4 |
 ||
 |**Advanced Courses**| | 12 credits |
 | CIS 2353	| Data Structures |	4 |
 | ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
-| CIS 2540	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
+| CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | | 11 credits |
@@ -35,13 +35,13 @@ Major Requirements
 | CIS 2862	| Game Design	| 3 |
 ||
 | Data Science and AI Focus | | 12 credits |
+| CIS 2141 |	R Programming for Data Science |	4 |
 | CIS 2241|	Discrete Structures	| 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
-| CIS 2141 |	R Programming for Data Science |	4 |
 ||
 | Full Stack Devleopment Focus | | 12 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
-| +CIS 2474	| DevOps Engineering |	4 |
+| +CIS 2874	| DevOps Engineering |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
 ||
 |**Capstone Course**|
