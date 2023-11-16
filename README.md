@@ -4,4 +4,4 @@
 
 [CIS.SWE.CT](CIS.SWE.CT.md)
 
-[CIS.DSC.CT](CIS.DSC.CT)
+[CIS.DSC.CT](CIS.DSC.CT.md)
