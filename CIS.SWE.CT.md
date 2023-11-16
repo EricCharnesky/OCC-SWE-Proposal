@@ -1,6 +1,6 @@
 # CIS.SWE.CT
 
-[Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-aas/)
+[Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-ct/)
   
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
