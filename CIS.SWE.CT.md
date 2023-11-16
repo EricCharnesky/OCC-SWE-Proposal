@@ -1,4 +1,4 @@
-# OCC-SWE-Proposal
+# CIS.SWE.CT
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-aas/)
   
