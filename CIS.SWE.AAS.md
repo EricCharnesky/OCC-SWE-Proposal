@@ -20,7 +20,7 @@ Major Requirements
 ||
 |**Second Language Choice**|Select one of the following four languages | 4 credits |
 | CIS 2141 |	R Programming for Data Science |	4 |
-| ^CIS 2151	|Java Programming ( OOP from title and remove prereq ) | 4 |
+| ^CIS 2151	| Java Programming ( OOP from title and remove prereq ) | 4 |
 | ^CIS 2252	| C++ Programming ( remove OOP from title )| 4 |
 | CIS 2757	| C# Programming	| 4 |
 ||
@@ -30,17 +30,17 @@ Major Requirements
 | CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
 | Focus Area | Take 3 courses in a focus area |
-| Game Design Focus | | 11 credits |
+| Game Design Focus | C++ or C# recommended 2nd Language | 11 credits |
 | +CIS 2850	| Introduction to Game Art and Animation (Blender) |	4 |
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
-| Data Science Focus | Take CIS 2141 R Programming as 2nd Language | 11 credits |
+| Data Science Focus | R Programming as 2nd Language ( for CIS.DSC.CT cert ) | 11 credits |
 | CIS 2241|	Discrete Structures	| 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2637	| Big Data and NoSQL Systems | 3 |
 ||
-| Full Stack Devleopment Focus | | 12 credits |
+| Full Stack Devleopment Focus | C# recommended as 2nd Language | 12 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
 | +CIS 2878	| DevOps Engineering |	4 |
