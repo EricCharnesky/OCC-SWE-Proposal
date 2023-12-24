@@ -4,7 +4,7 @@
   
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
-Assocaite of Applied Science in Software Engineering (CIS.SWE.AAS)
+Associate of Applied Science in Software Engineering (CIS.SWE.AAS)
 
 Major Requirements
 
@@ -29,7 +29,7 @@ Major Requirements
 | ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
 | CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
-| Focus Area | Take 3 courses in a focus area |
+|**Focus Area** | Take 3 courses in a focus area |
 | Game Design Focus | C++ or C# recommended 2nd Language | 11 credits |
 | +CIS 2850	| Introduction to Game Art and Animation (Blender) |	4 |
 | CIS 2859	| Foundations of Game Development	| 4 | 
