@@ -25,7 +25,7 @@ Major Requirements
 | CIS 2757	| C# Programming	| 4 |
 ||
 |**Advanced Courses**| | 12 credits |
-| CIS 2353	| Data Structures |	4 |
+| ^CIS 2353	| Data Structures ( update pre-req list to include 2151 ) |	4 |
 | ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
 | CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
@@ -36,7 +36,7 @@ Major Requirements
 | CIS 2862	| Game Design	| 3 |
 ||
 | Data Science Focus | R Programming as 2nd Language ( for CIS.DSC.CT cert ) | 11 credits |
-| CIS 2241|	Discrete Structures	( update pre-req list to include 2151 ) | 4 |
+| CIS 2241|	Discrete Structures | 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2637	| Big Data and NoSQL Systems | 3 |
 ||
