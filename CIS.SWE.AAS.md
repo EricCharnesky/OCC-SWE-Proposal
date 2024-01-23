@@ -8,7 +8,8 @@ Assocaite of Applied Science in Software Engineering (CIS.SWE.AAS)
 
 Major Requirements
 
-^ means major course revision (name or otherwise) - \+ indicates a new course
+^ means major course revision (name or otherwise)  
+\+ indicates a new course
 
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
