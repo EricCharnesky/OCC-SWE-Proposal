@@ -54,7 +54,7 @@ Major Requirements
 | ENG 1510 | Composition I	| 3 |
 | or ENG 1510E |	Composition I Enhanced	| 4 |
 ||
-| MAT 1150	| Intermediate Algebra (or higher level except MAT 1525, MAT 2530 or MAT 2540) | 3-4 |
+| MAT 1150	| Intermediate Algebra (or higher level except MAT 1525, MAT 2530 or MAT 2540) ( Statistics 1580 is required in the Data Science Focus ) | 3-4 |
 ||
 | PHI 1710 |	Introduction to Informal Logic | 3 |
 | or PHI 2710 |	Introduction to Formal Logic |	3 |
