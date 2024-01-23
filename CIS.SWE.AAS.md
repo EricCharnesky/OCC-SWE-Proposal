@@ -36,7 +36,7 @@ Major Requirements
 | CIS 2862	| Game Design	| 3 |
 ||
 | Data Science Focus | R Programming as 2nd Language ( for CIS.DSC.CT cert ) | 11 credits |
-| CIS 2241|	Discrete Structures	| 4 |
+| CIS 2241|	Discrete Structures	( update pre-req list to include 2151 ) | 4 |
 | CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2637	| Big Data and NoSQL Systems | 3 |
 ||
