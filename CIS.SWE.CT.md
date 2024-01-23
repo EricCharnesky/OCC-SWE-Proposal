@@ -1,12 +1,19 @@
-# CIS.SWE.CT
+# CIS.SWE.CT - Software Engineering Certificate
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-ct/)
   
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
-Software Engineering Certificate (CIS.SWE.CT)
+## Change Highlights
+- Replace  1500 Intro to programming in java with 2131 Python
+- Add 1440 Front End Web Dev to core
+- Update Game Design focus
+- Add Full Stack Web Dev and Intro to Practical AI to advanced core
+- Update Game Design focus, replace CAD course with Graphics Modeling Software ( Blender )
+- Remove General Software, Modile App focus areas
+- Update Web Application Development Focus to be Full Stack Development Focus with courses in Mobile, Cloud Native and DevOps Engineering
 
-Major Requirements
+## Major Requirements
 
 ^ means major course revision (name or otherwise)  
 \+ indicates a new course
@@ -25,7 +32,7 @@ Major Requirements
 ||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | | 11 credits |
-| +CIS 2850	| Introduction to Game Art and Animation (Blender) |	4 |
+| +CIS 2850	| Introduction to Graphics Modeling Software (Blender) |	4 |
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
