@@ -6,6 +6,17 @@
 
 Assocaite of Applied Science in Software Engineering (CIS.SWE.AAS)
 
+## Change highlights:
+- Add 3 focus areas, 2 that align with the CIS.SWE.CT programs, and 1 that aligns with the CIS.DSC.CT
+- Remove 1300 ( networking ) and 1500 ( intro to programming in java ) from core courses
+- Add Python as required programming course as it's a pre-req to later advanced courses
+- Add option of 2nd langage instead of requiring C++ ( this helps align with certificates as well )
+- Update web systems development to be a full stack web development course
+- Add new Practical AI course to advanced course courses ( 2131 prereq )
+- Update game design focus with Game Art / Animation instead of CAD course
+- Add CIS 2991 as Capstone course to align with CT program
+
+
 Major Requirements
 
 ^ means major course revision (name or otherwise)  
@@ -32,17 +43,17 @@ Major Requirements
 ||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | C++ or C# recommended 2nd Language | 11 credits |
-| +CIS 2850	| Introduction to Game Art and Animation (Blender) |	4 |
-| CIS 2859	| Foundations of Game Development	| 4 | 
-| CIS 2862	| Game Design	| 3 |
+| +CIS 2850	| Introduction to Game Art and Animation (Blender) | 4 |
+| CIS 2859 | Foundations of Game Development	| 4 | 
+| CIS 2862 | Game Design	| 3 |
 ||
 | Data Science Focus | R Programming as 2nd Language ( for CIS.DSC.CT cert ) | 11 credits |
-| CIS 2241|	Discrete Structures | 4 |
-| CIS 2541	|Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
-| CIS 2637	| Big Data and NoSQL Systems | 3 |
+| CIS 2241 |	Discrete Structures | 4 |
+| CIS 2541 | Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
+| CIS 2637 | Big Data and NoSQL Systems | 3 |
 ||
 | Full Stack Devleopment Focus | C# recommended as 2nd Language | 12 credits |
-| CIS 2818	| Mobile Application Development (Android) |	4 |
+| CIS 2818 | Mobile Application Development (Android) |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
 | +CIS 2878	| DevOps Engineering |	4 |
 ||
