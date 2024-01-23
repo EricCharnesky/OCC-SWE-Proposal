@@ -8,7 +8,8 @@ Software Engineering Certificate (CIS.SWE.CT)
 
 Major Requirements
 
-^ means major course revision (name or otherwise) - \+ indicates a new course
+^ means major course revision (name or otherwise)  
+\+ indicates a new course
 
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
@@ -20,7 +21,7 @@ Major Requirements
 ||
 |**Advanced Courses**| | 8 credits |
 | ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
-| CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
+| +CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | | 11 credits |
