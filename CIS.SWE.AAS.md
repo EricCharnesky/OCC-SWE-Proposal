@@ -52,15 +52,17 @@
 | CIS 2541 | Introduction to Machine Learning ( pre-req of MAT 1580 Statistics ) | 4 |
 | CIS 2637 | Big Data and NoSQL Systems | 3 |
 ||
-| Full Stack Devleopment Focus | C# recommended as 2nd Language | 12 credits |
+| Full Stack Devleopment Focus | C# recommended as 2nd Language | 11 credits |
 | CIS 2818 | Mobile Application Development (Android) |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
-| +CIS 2878	| DevOps Engineering |	4 |
+| +CIS 2878	| DevOps Engineering |	3 |
 ||
 |**Capstone Course**|
 | ^CIS 2991	|Software Engineering Capstone |	3 |
-||Total Major Credits: |45-46 credits|
+||Total Major Credits: |45 credits|
 | Required Supportive Courses |
+| LIB 1100 | Information Research Methods | 2 |
+||
 | COM 1290 | Interpersonal Communication |	3 |
 ||
 | ENG 1510 | Composition I	| 3 |
@@ -72,5 +74,5 @@
 | or PHI 2710 |	Introduction to Formal Logic |	3 |
 ||
 | | Social Science from Gen Ed Distribution | 3 |
-| | Total Credit Hours for Program-Related Courses	| 60-63 |
+| | Total Credit Hours for Program-Related Courses	| 62-65 |
 
