@@ -13,9 +13,9 @@ Assocaite of Applied Science in Software Engineering (CIS.SWE.AAS)
 - Add Python as required programming course as it's a pre-req to later advanced courses
 - Add option of 2nd langage instead of requiring C++ ( this helps align with certificates as well )
 - Update 2454 web systems development to be a full stack web development course
-- update 2858 Web Services and Integration to Cloud Native Systems and Integration
+- Update 2858 Web Services and Integration to Cloud Native Systems and Integration
 - Add new Practical AI course to advanced course courses ( 2131 prereq )
-- Update game design focus with Game Art / Animation instead of CAD course
+- Update game design focus with Graphics modeling software (e.g., Blender) instead of CAD course
 - Add CIS 2991 as Capstone course to align with CT program
 
 
