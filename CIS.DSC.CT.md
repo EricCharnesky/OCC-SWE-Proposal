@@ -1,14 +1,14 @@
 # CIS.DSC.CT
+# Data Scienct Certificate
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/data-science-ct/)
   
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
-Data Scienct Certificate
+## Change Highlights
+- Replace CIS 1600 Intro to Cybersecurity with new CIS 2555 Introduction to Practical AI
 
-Replace CIS 1600 Intro to Cybersecurity with new CIS 2555 Introduction to Practical AI
-
-Major Requirements
+## Major Requirements
 
 \+ indicates a new course
 
