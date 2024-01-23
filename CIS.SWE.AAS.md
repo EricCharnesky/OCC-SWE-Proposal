@@ -1,10 +1,8 @@
-# CIS.SWE.AAS
+# CIS.SWE.AAS - Associate of Applied Science in Software Engineering
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/software-engineering-option-aas/)
   
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
-
-Associate of Applied Science in Software Engineering (CIS.SWE.AAS)
 
 ## Change highlights:
 - Add 3 focus areas, 2 that align with the CIS.SWE.CT programs, and 1 that aligns with the CIS.DSC.CT
@@ -19,7 +17,7 @@ Associate of Applied Science in Software Engineering (CIS.SWE.AAS)
 - Add CIS 2991 as Capstone course to align with CT program
 
 
-Major Requirements
+## Major Requirements
 
 ^ means major course revision (name or otherwise)  
 \+ indicates a new course
