@@ -1,4 +1,4 @@
-# CIS.DSC.CT - Data Scienct Certificate
+# CIS.DSC.CT - Data Science Certificate
 
 [Current Program](https://catalog.oaklandcc.edu/programs/computer-information-systems/data-science-ct/)
   
