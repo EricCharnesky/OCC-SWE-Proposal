@@ -43,7 +43,7 @@
 ||
 |**Focus Area** | Take 3 courses in a focus area |
 | Game Design Focus | C++ or C# recommended 2nd Language | 11 credits |
-| +CIS 2850	| Introduction to Game Art and Animation (Blender) | 4 |
+| +CIS 2850	| Introduction to Graphics Modeling Software (Blender) | 4 |
 | CIS 2859 | Foundations of Game Development	| 4 | 
 | CIS 2862 | Game Design	| 3 |
 ||
