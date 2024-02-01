@@ -36,12 +36,12 @@
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
-| Full Stack Devleopment Focus | | 12 credits |
+| Full Stack Devleopment Focus | | 11 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
 | ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
-| +CIS 2878	| DevOps Engineering |	4 |
+| +CIS 2878	| DevOps Engineering |	3 |
 ||
 |**Capstone Course**|
 | ^CIS 2991	|Software Engineering Capstone |	3 |
-||Total Credits: | 37-38 |
+||Total Credits: | 37 |
 
