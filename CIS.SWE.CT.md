@@ -5,7 +5,8 @@
 [Course Descriptions](https://catalog.oaklandcc.edu/course-descriptions/cis/)
 
 ## Change Highlights
-- Replace  1500 Intro to programming in java with 2131 Python
+- Remove 1200 from core
+- Replace 1500 Intro to programming in java with 2131 Python
 - Add 1440 Front End Web Dev to core
 - Update Game Design focus
 - Add Full Stack Web Dev and Intro to Practical AI to advanced core
@@ -20,8 +21,7 @@
 
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
-|**Software Engineering Core**|| 15 credits |
-| CIS 1200	|Intro to Database Systems |	4 |
+|**Software Engineering Core**|| 11 credits |
 | ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript)|	4 |
 | CIS 1512	| Principles of Software Engineering |	3 |
 | CIS 2131	| Python Programming	| 4 |
@@ -43,5 +43,5 @@
 ||
 |**Capstone Course**|
 | ^CIS 2991	|Software Engineering Capstone |	3 |
-||Total Credits: | 37 |
+||Total Credits: | 33 |
 
