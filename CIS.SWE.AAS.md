@@ -58,7 +58,7 @@
 | +CIS 2878	| DevOps Engineering |	3 |
 ||
 |**Capstone Course**|
-| ^CIS 2991	|Software Engineering Capstone |	3 |
+| ^CIS 2991	|Software Engineering Capstone ( pre-req update needed ) |	3 |
 ||Total Major Credits: |45 credits|
 | Required Supportive Courses |
 | LIB 1100 | Information Research Methods | 2 |
