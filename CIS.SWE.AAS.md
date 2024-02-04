@@ -38,7 +38,7 @@
 ||
 |**Advanced Courses**| | 12 credits |
 | ^CIS 2353	| Data Structures ( update pre-req list to include 2151 ) |	4 |
-| ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java ) | 4|
+| ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java - 1440 prereq ) | 4|
 | +CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
 |**Focus Area** | Take 3 courses in a focus area |
