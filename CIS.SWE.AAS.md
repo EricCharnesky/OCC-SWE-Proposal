@@ -26,7 +26,7 @@
 |-------------|-------------|---------:|
 |**Software Engineering Core**|| 15 credits |
 | CIS 1200	|Intro to Database Systems |	4 |
-| ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript)|	4 |
+| ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript) ( remove pre-req ) |	4 |
 | CIS 1512	| Principles of Software Engineering |	3 |
 | CIS 2131	| Python Programming	| 4 |
 ||
