@@ -9,7 +9,7 @@
 - Remove 1300 Networking, 1500 Intro to programming in java, 2111 Systems Analysis and Design from core courses
 - Remove 1420 HTML and add content to revamped 1440 Front End Web course
 - Add Python as required programming course as it's a pre-req to later advanced courses
-- Add option of 2nd langage instead of requiring C++ ( this helps align with certificates as well )
+- Add option of 2nd language instead of requiring C++ ( this helps align with certificates as well )
 - Update 2454 web systems development to be a full stack web development course
 - Update 2858 Web Services and Integration to Cloud Native Systems and Integration
 - Add new Practical AI course to advanced course courses ( 2131 prereq )
