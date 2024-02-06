@@ -74,5 +74,5 @@
 | or PHI 2710 |	Introduction to Formal Logic |	3 |
 ||
 | | Social Science from Gen Ed Distribution | 3 |
-| | Total Credit Hours for Program-Related Courses	| 62-65 |
+| | Total Credit Hours for Program-Related Courses	| 62-64 |
 
