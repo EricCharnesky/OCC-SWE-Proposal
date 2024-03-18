@@ -23,7 +23,7 @@
 |-------------|-------------|---------:|
 |**Software Engineering Core**|| 11 credits |
 | ^[CIS 1440](CIS1440.md)	| Front-End Web Technologies (HTML, CSS, and JavaScript) ( remove pre-req ) |	4 |
-| ^[CIS 1512](CIS1512.md)	| Principles of Software Engineering |	3 |
+| ^[CIS 1512](CIS1512.md)	| Principles of Software Engineering  ( add 1440 as co-req) |	3 |
 | CIS 2131	| Python Programming	| 4 |
 ||
 |**Advanced Courses**| | 8 credits |
