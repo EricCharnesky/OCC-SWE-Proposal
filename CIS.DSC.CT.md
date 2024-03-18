@@ -19,7 +19,7 @@
 | CIS 2241	| Discrete Structures	| 4 |
 | CIS 2353	| Data Structures	| 4 |
 | CIS 2541	| Introduction to Machine Learning	| 4 |
-| +CIS 2555	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
+| +[CIS 2777](CIS2777.md)	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 | CIS 2637	| Big Data and NoSQL Systems	| 3 |
 | MAT 1580	| Statistics	| 4 |
 ||Total Credit Hours | 35 |

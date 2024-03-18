@@ -22,24 +22,24 @@
 | Course Code	| Description	| Credits |
 |-------------|-------------|---------:|
 |**Software Engineering Core**|| 11 credits |
-| ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript) ( remove pre-req ) |	4 |
-| CIS 1512	| Principles of Software Engineering |	3 |
+| ^[CIS 1440](CIS1440.md)	| Front-End Web Technologies (HTML, CSS, and JavaScript) ( remove pre-req ) |	4 |
+| ^[CIS 1512](CIS1512.md)	| Principles of Software Engineering |	3 |
 | CIS 2131	| Python Programming	| 4 |
 ||
 |**Advanced Courses**| | 8 credits |
-| ^CIS 2454	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java - 1440 prereq ) | 4|
-| +CIS 2777	| Introduction to Applied AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
+| ^[CIS 2454](CIS2454.md)	| Full Stack Web Development ( formerly Web Systems Dev PHP/Java - 1440 prereq ) | 4|
+| +[CIS 2777](CIS2777.md)	| Introduction to Practical AI ( Prompt Engineering/LLM/Generative AI - pre-req 2131) | 4 |
 ||
 | Focus Area | Take 3 courses in a focus area |
 | Game Design Focus | | 11 credits |
-| +CIS 2850	| Introduction to Graphics Modeling Software (Blender) |	4 |
+| +[CIS 2850](CIS2850.md)	| Introduction to Graphics Modeling Software (Blender) |	4 |
 | CIS 2859	| Foundations of Game Development	| 4 | 
 | CIS 2862	| Game Design	| 3 |
 ||
 | Full Stack Devleopment Focus | | 11 credits |
 | CIS 2818	| Mobile Application Development (Android) |	4 |
-| ^CIS 2858	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
-| +CIS 2878	| DevOps Engineering |	3 |
+| ^[CIS 2858](CIS2858.md)	| Cloud Native Systems and Integration (formerly Web Services and Integration) |	4 |
+| +[CIS 2878](CIS2878.md)	| DevOps Engineering |	3 |
 ||
 |**Capstone Course**|
 | ^CIS 2991	|Software Engineering Capstone ( pre-req update needed ) |	3 |

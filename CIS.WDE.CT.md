@@ -15,7 +15,7 @@
 |-------------|-------------|---------:|
 | CIS 1090	| Web Graphic Concepts	| 4 |
 | CIS 1400	| Web Design 1	| 4 |
-| ^CIS 1440	| Front-End Web Technologies (HTML, CSS, and JavaScript)	| 4 |
+| ^[CIS 1440](CIS1440.md)	| Front-End Web Technologies (HTML, CSS, and JavaScript)	| 4 |
 | CIS 1512 | Principles of Software Engineering | 3 |
 | CIS 1720	| Multimedia Data Management | 4 |
 | CIS 1721	| Web Design II	| 3 |
