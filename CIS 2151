@@ -1,0 +1,17 @@
+# CIS 2151 - Java Programming
+
+## Course Description
+In this course, students will dive into the essentials of Java, utilizing an IDE for practical experience in coding, debugging, and running applications. The curriculum covers fundamental programming concepts including data types, variables, control statements, and file I/O, alongside an introduction to arrays and Object-Oriented Programming (OOP) principles like encapsulation, inheritance, and polymorphism. Students will also gain hands-on experience in developing GUI applications using a popular GUI framework. Emphasizing critical thinking, the course prepares students to tackle programming challenges effectively, laying a solid foundation for further learning and professional development in the field of software engineering.
+
+## Prerequisites
+None
+
+## Course Outcomes
+- Utilize an IDE to implement, compile, debug, and run a running Java programming  
+- Define constants and variables, data types, and understand their use with related operators and type conversions
+- Demonstrate use of control statements (if, if-else, switch, while, do-while, for, etc.)
+- Demonstrate ability to perform file input and output
+- Demonstrate ability to write code using arrays
+- Demonstrate understanding of fundamental OOP concepts (encapsulation, inheritance, and polymorphism)
+- Implement a GUI application with a popular GUI framework (such as JavaFX)
+- Accomplish the assigned task (critical thinking)
