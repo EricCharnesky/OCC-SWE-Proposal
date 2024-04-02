@@ -10,6 +10,8 @@
 
 Update - [CIS 1440 - Front End Web Technologies](CIS1440.md)
 
+Update [CIS 2151 - Java Programming](CIS2151.md)
+
 Update [CIS 2454 - Fullstack Web Development](CIS2454.md)
 
 New [CIS 2777 - Introduction to Practical AI](CIS2777.md)
